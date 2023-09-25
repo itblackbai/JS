@@ -1,0 +1,32 @@
+/** ЗАДАЧА 6 - Типы данных
+ *
+ * 1. Объявите несколько переменных и присвойте им значения:
+ *  - строка
+ *  - число
+ *  - логическое
+ *  - null
+ *  - undefined
+ *  - объект
+ *  - массив
+ *
+ * 2. Выведите в консоль тип каждого из значений
+ * используя оператор typeof
+ */
+
+
+let string = 'str'
+let number = 21
+let bool = true
+let isNull = null
+let undefined 
+const myObject = {}
+const myArray = []
+
+console.log(typeof string)
+console.log(typeof number)
+console.log(typeof bool)
+console.log(typeof isNull)
+console.log(typeof undefined)
+console.log(typeof myObject)
+console.log(typeof myArray)
+
